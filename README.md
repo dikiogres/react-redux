@@ -1,4 +1,4 @@
-# React Redux Simple Website Builder Docs
+# React Redux Simple Website Builder
 
 ## Introduction
 
